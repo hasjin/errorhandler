@@ -1,0 +1,114 @@
+[
+  {
+    "instanceId": "www_11",
+    "host": "10.206.64.11",
+    "username": "sysoper",
+    "password": "goaZmfhzp#41",
+    "baseLogPath": "/svc/dwmall/was/tomcat/www_11/logs/www_11.out"
+  },
+  {
+    "instanceId": "mobile_12",
+    "host": "10.206.64.11",
+    "username": "sysoper",
+    "password": "goaZmfhzp#41",
+    "baseLogPath": "/svc/dwmall/was/tomcat/mobile_12/logs/mobile_12.out"
+  },
+  {
+    "instanceId": "partner_13",
+    "host": "10.206.64.11",
+    "username": "sysoper",
+    "password": "goaZmfhzp#41",
+    "baseLogPath": "/svc/dwmall/was/tomcat/partner_13/logs/partner_13.out"
+  },
+  {
+    "instanceId": "mpartner_14",
+    "host": "10.206.64.11",
+    "username": "sysoper",
+    "password": "goaZmfhzp#41",
+    "baseLogPath": "/svc/dwmall/was/tomcat/mpartner_14/logs/mpartner_14.out"
+  },
+  {
+    "instanceId": "www_21",
+    "host": "10.206.128.11",
+    "username": "sysoper",
+    "password": "goaZmfhzp#42",
+    "baseLogPath": "/svc/dwmall/was/tomcat/www_21/logs/www_21.out"
+  },
+  {
+    "instanceId": "mobile_22",
+    "host": "10.206.128.11",
+    "username": "sysoper",
+    "password": "goaZmfhzp#42",
+    "baseLogPath": "/svc/dwmall/was/tomcat/mobile_22/logs/mobile_22.out"
+  },
+  {
+    "instanceId": "partner_23",
+    "host": "10.206.128.11",
+    "username": "sysoper",
+    "password": "goaZmfhzp#42",
+    "baseLogPath": "/svc/dwmall/was/tomcat/partner_23/logs/partner_23.out"
+  },
+  {
+    "instanceId": "mpartner_24",
+    "host": "10.206.128.11",
+    "username": "sysoper",
+    "password": "goaZmfhzp#42",
+    "baseLogPath": "/svc/dwmall/was/tomcat/mpartner_24/logs/mpartner_24.out"
+  },
+  {
+    "instanceId": "tbc_11",
+    "host": "10.206.74.11",
+    "username": "sysoper",
+    "password": "goaZmfhzp#41",
+    "baseLogPath": "/svc/thebanchan/was/tomcat/tbc_11/logs/tbc_11.out"
+  },
+  {
+    "instanceId": "mtbc_12",
+    "host": "10.206.74.11",
+    "username": "sysoper",
+    "password": "goaZmfhzp#41",
+    "baseLogPath": "/svc/thebanchan/was/tomcat/mtbc_12/logs/mtbc_12.out"
+  },
+  {
+    "instanceId": "arrr_13",
+    "host": "10.206.74.11",
+    "username": "sysoper",
+    "password": "goaZmfhzp#41",
+    "baseLogPath": "/svc/thebanchan/was/tomcat/arrr_13/logs/arrr_13.out"
+  },
+  {
+    "instanceId": "marrr_14",
+    "host": "10.206.74.11",
+    "username": "sysoper",
+    "password": "goaZmfhzp#41",
+    "baseLogPath": "/svc/thebanchan/was/tomcat/marrr_14/logs/marrr_14.out"
+  },
+  {
+    "instanceId": "tbc_21",
+    "host": "10.206.174.11",
+    "username": "sysoper",
+    "password": "goaZmfhzp#42",
+    "baseLogPath": "/svc/thebanchan/was/tomcat/tbc_21/logs/tbc_21.out"
+  },
+  {
+    "instanceId": "mtbc_22",
+    "host": "10.206.174.11",
+    "username": "sysoper",
+    "password": "goaZmfhzp#42",
+    "baseLogPath": "/svc/thebanchan/was/tomcat/mtbc_22/logs/mtbc_22.out"
+  },
+  {
+    "instanceId": "arrr_23",
+    "host": "10.206.174.11",
+    "username": "sysoper",
+    "password": "goaZmfhzp#42",
+    "baseLogPath": "/svc/thebanchan/was/tomcat/arrr_23/logs/arrr_23.out"
+  },
+  {
+    "instanceId": "marrr_24",
+    "host": "10.206.174.11",
+    "username": "sysoper",
+    "password": "goaZmfhzp#42",
+    "baseLogPath": "/svc/thebanchan/was/tomcat/marrr_24/logs/marrr_24.out"
+  }
+]
