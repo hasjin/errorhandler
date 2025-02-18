@@ -23,7 +23,10 @@ import { LogModule } from './log/log.module';
     TypeOrmModule.forRootAsync({
       imports: [ConfigModule],
       useFactory: (configService: ConfigService) => ({
-        type: 'postgres',
+        type: configService.get<'mariadb' | 'mysql' | 'postgres'>(
+          'DB_TYPE',
+          'postgres',
+        ),
         host: configService.get<string>('DB_HOST', 'localhost'),
         port: configService.get<number>('DB_PORT', 5432),
         username: configService.get<string>('DB_USER', 'postgres'),

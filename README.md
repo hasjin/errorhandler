@@ -33,6 +33,7 @@ npm install
 3. **환경 변수 설정**  
    프로젝트 루트에 `.env` 파일을 생성하고 다음과 같이 설정하세요:
    ```dotenv
+   DB_TYPE=postgres
    DB_HOST=localhost
    DB_PORT=5432
    DB_USER=myuser
